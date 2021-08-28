@@ -1,0 +1,33 @@
+.titulo{
+    text-align: center;
+    color: rgb(10, 9, 8);
+    font-size: larger 30cm;    
+}
+
+.fondo{
+    background-color: rgb(56, 184, 173);
+    border-image: 4cm;
+}
+
+.select{
+    background-image: url(../Hotel-Campestre.jpg);
+}
+
+.contenedor{
+    background:rgba(247, 246, 246, 0.521);
+    width: 60%;
+    max-width: 650%;
+    margin: auto;
+    padding: 5px 35px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3px;
+}
+
+.cuadros{
+    display: block;
+}
+.letra{
+    color: rgb(3, 3, 3);
+}
+
